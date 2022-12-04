@@ -1,4 +1,4 @@
-### Oi meu nome é Lorena
+### Acabei de me formar como Full Stack!!! 
 <div align="center">
   <a href="https://github.com/lorenaop">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenaop&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
