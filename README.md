@@ -8,3 +8,6 @@
  ![Snake animation](https://github.com/lorenaop/lorenaop/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<a href="https://www.linkedin.com/in/lorena-oliveira-402ab2182/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/lorena-oliveira-402ab2182?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
