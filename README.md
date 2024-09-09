@@ -9,9 +9,6 @@ Em minha área, pretendo me especializar no desenvolvimento web e utilizar das e
  ### Skills
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
-        width="50" height="50" alt="C" /></a>&emsp;<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB"
-    target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
         width="50" height="50" alt="Git" /></a>&emsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
@@ -29,7 +26,6 @@ Em minha área, pretendo me especializar no desenvolvimento web e utilizar das e
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
         width="50" height="50" alt="TailwindCSS" /></a>
 </p>
-##
 <br/>
 <div align="center" style="margin-bottom:200px">
         
