@@ -7,8 +7,7 @@
 Em minha área, pretendo me especializar no desenvolvimento web e utilizar das experiências interdisciplinares para gerar boas soluções. De forma intrínseca sempre fui muito comunicativa, proativa e de fácil adaptação, tenho motivação em aprender coisas novas e estou em constante atualização no mundo digital.
  
  ### Skills
-<p align="center">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
+<p align="center"><img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
         width="50" height="50" alt="Git" /></a>&emsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
