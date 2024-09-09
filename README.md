@@ -13,7 +13,7 @@ Em minha área, pretendo me especializar no desenvolvimento web e utilizar das e
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
- ![lorenop GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaop&show_icons=true&theme=radical)
+ ![lorenop GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaop&show_icons=true&theme=merko)
 </div>
 
 <a href="https://www.linkedin.com/in/lorena-oliveira-402ab2182/" target="_blank">
