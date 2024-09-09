@@ -2,9 +2,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 Atualmente estou na transição para Engenharia de Software pela Estácio e tenho a formação do curso completo de Full-Stack pelo grupo Recode. Estou em constante aprimoramento das minhas habilidades de Hard-Skills e Soft-skills.
-
-Tenho experiência com uma variedade de tecnologias, incluindo JavaScript,HTML,CSS, Tailwind, Bootstrap,Git,Figma,ReactJs(em aprendizado),UX/UI (em aprendizado). Além de ter obtido experiência em trabalhar em equipe e de forma remota,capacidade para conciliação, boa comunicação sempre sendo colaborativa e com facilidade de aprendizado.
+ Atualmente estou na transição para Engenharia de Software pela Estácio e tenho a formação do curso completo de Full-Stack pelo grupo Recode. Estou em constante aprimoramento das minhas habilidades de Hard-Skills e Soft-skills.
 
 Em minha área, pretendo me especializar no desenvolvimento web e utilizar das experiências interdisciplinares para gerar boas soluções. De forma intrínseca sempre fui muito comunicativa, proativa e de fácil adaptação, tenho motivação em aprender coisas novas e estou em constante atualização no mundo digital.
 
