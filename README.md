@@ -25,9 +25,3 @@ Em minha área, pretendo me especializar no desenvolvimento web e utilizar das e
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
         width="50" height="50" alt="TailwindCSS" /></a>
 </p>
-<br/>
-<div align="center" style="margin-bottom:200px">
-        
-<a href="https://github.com/lorenaop"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lorenaop&theme=radical&border_radius=15&background=45%2C2C2C2C%2C000000" alt="GitHub Streak" /></a>
-<a href="https://github.com/lorenaop"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenaop&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>
-<a href="https://github.com/lorenaop"><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaop&layout=donut-vertical&theme=radical"/></a>            
